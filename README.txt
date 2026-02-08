@@ -16,17 +16,3 @@ Here is how to use this code:
    - Extract this ZIP folder.
    - Right-click 'index.html' and open with Chrome or Safari.
 
-4. HOW TO SEND ON WHATSAPP (LIKE THE VIDEO):
-   - To get the "Cake Icon" and a clickable link in WhatsApp, you must HOST this code online.
-   - If you just send the file, it will look like a document icon.
-   - To make it a real link (e.g., www.hername.com), use HOSTINGER.
-
-👉 GET 70% OFF HOSTING + FREE DOMAIN:
-
-https://hostinger.in?REFERRALCODE=I99ITISIRS9J
-
-Using a custom link is the best way to surprise her! ❤️
-------------------------------------------------
-Follow me on Instagram for more codes: @fromzero.dev
-Subscribe on YouTube: IrfanDevJourney
-------------------------------------------------
